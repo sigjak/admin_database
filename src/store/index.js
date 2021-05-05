@@ -7,6 +7,7 @@ Vue.use(Vuex, axios)
 // TODO check this  table location Create new folder for tableapi on server site
 let base = axios.create({
     baseURL: 'https://microprobe.hi.is/admin/tableApi/',
+
     headers: {
         'Content-Type': 'application/json',
         'Cache-Control': 'no-cache',

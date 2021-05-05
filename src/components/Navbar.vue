@@ -263,11 +263,11 @@ export default {
                     name: 'Vehicles',
                     kinds: [
                         {
-                            unit: 'LandRover 35 ',
+                            unit: 'LandRover 37 ',
                             params: {
                                 currentTable: 'landrover_35',
                                 years: true,
-                                currentUnit: 'LandRover 35 ',
+                                currentUnit: 'LandRover 37 ',
                                 title: 'Last Two Years',
                                 index: 'vehicle',
                             },
