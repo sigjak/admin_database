@@ -293,11 +293,11 @@ export default {
                             },
                         },
                         {
-                            unit: 'Blue Hilux ',
+                            unit: 'White Ford ',
                             params: {
                                 currentTable: 'blue_hilux',
                                 years: true,
-                                currentUnit: 'Blue Hilux ',
+                                currentUnit: 'White Ford ',
                                 title: 'Last Two Years',
                                 index: 'vehicle',
                             },
